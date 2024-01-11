@@ -1,0 +1,185 @@
+
+
+.sec-nav a{
+	text-decoration: none;
+	color: black;
+	padding-right: 25px;
+	font-size: 15px;
+
+}
+
+.sec-nav{
+	padding-top: 13px;
+	display: flex;
+}
+
+.t-nav{
+	display: flex;
+	justify-content: space-between;
+	padding-right: 4px;
+	padding: 6px;
+}
+
+.sec-nav a:hover{
+	color: white;
+}
+
+.cart-n{
+	text-decoration: none;
+}
+
+.top-img{
+	display: flex;
+	justify-content: space-between;
+}
+
+.search-btn input{
+	outline: none;
+	width: 450px;
+	height: 45px;
+}
+
+.search-btn button{
+	outline: none;
+	width: 40px;
+	height: 45px;
+}
+
+.name-nav{
+	text-decoration: none;
+	color: black;
+	font-size: 30px;
+}
+
+.t-nav{
+	background-color: #32CD32;
+}
+
+#nam-nav{
+	overflow: hidden;
+	text-decoration: none;
+	color: black;
+}
+
+.ano-nav{
+	background-color: #353839;
+}
+
+.checked{
+	color: orange;
+}
+
+#btn{
+	border-color: white;
+	background-color: #FF8200;
+	
+}
+
+.item1{
+	
+}
+
+.all-prod{
+	border-radius: 1px;
+	border-color: black;
+
+	padding: 5px;
+	margin-left: 8px;
+}
+
+
+.item1, .item2, .item3, .item4, .item5, .item6, .item7, .item8, .item9, .item10, .item11, .item12{
+	padding: 8px;
+	border-style: hidden;
+	border-color: dimgray;
+	border-radius: 10px;
+	transition: 0.1s;
+	background-color: white;
+	margin-right: 5px;
+}
+
+
+.item1:hover{
+	box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.8);
+}
+
+.item2:hover{
+	box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.8);
+}
+
+.item3:hover{
+	box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.8);
+}
+
+.item4:hover{
+	box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.8);
+}
+
+.item5:hover{
+	box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.8);
+}
+
+.item6:hover{
+	box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.8);
+}
+
+.item7:hover{
+	box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.8);
+}
+
+.item8:hover{
+	box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.8);
+}
+
+.item9:hover{
+	box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.8);
+}
+
+.item10:hover{
+	box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.8);
+}
+
+.item11:hover{
+	box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.8);
+}
+
+.item12:hover{
+	box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.8);
+}
+
+.i-price{
+	
+	font-size: 20px;
+	color: red;
+}
+
+
+#dropdown{
+	outline: none;
+	width: 50px;
+	height: 45px;
+}
+
+#ch-cl{
+	font-size: 25px;
+}
+
+
+.pr-btn{
+	padding-top: 40px;
+}
+
+.pr-btn button{
+	border-style: none;
+	background: none;
+}
+
+.qtny{
+	padding-top: 40px;
+}
+
+.cart-sec{
+	padding-bottom: 10px;
+}
+
+
